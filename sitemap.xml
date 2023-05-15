@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/blog/</loc>
+    <loc>https://chahat-m.github.io/categories/blog/</loc>
     <lastmod>2023-04-10T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://chahat-m.github.io/categories/</loc>
     <lastmod>2023-04-10T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://chahat-m.github.io/</loc>
     <lastmod>2023-04-10T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/questions-still-unanswered/</loc>
+    <loc>https://chahat-m.github.io/blog/questions-still-unanswered/</loc>
     <lastmod>2023-04-10T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://chahat-m.github.io/blog/</loc>
     <lastmod>2023-04-10T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://chahat-m.github.io/tags/</loc>
     <lastmod>2023-04-10T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/website/</loc>
+    <loc>https://chahat-m.github.io/tags/website/</loc>
     <lastmod>2023-04-10T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/time-mastery/</loc>
+    <loc>https://chahat-m.github.io/blog/time-mastery/</loc>
     <lastmod>2023-03-01T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/self-projects/</loc>
+    <loc>https://chahat-m.github.io/blog/self-projects/</loc>
     <lastmod>2023-02-24T13:06:26+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/portfolio/kilo-ed-rust/</loc>
+    <loc>https://chahat-m.github.io/portfolio/kilo-ed-rust/</loc>
     <lastmod>2022-08-31T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/portfolio/</loc>
+    <loc>https://chahat-m.github.io/portfolio/</loc>
     <lastmod>2022-08-31T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/programming-with-electronics/</loc>
+    <loc>https://chahat-m.github.io/blog/programming-with-electronics/</loc>
     <lastmod>2022-07-20T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/portfolio/emotion-recognition/</loc>
+    <loc>https://chahat-m.github.io/portfolio/emotion-recognition/</loc>
     <lastmod>2022-07-17T18:19:35+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/mentorship/</loc>
+    <loc>https://chahat-m.github.io/blog/mentorship/</loc>
     <lastmod>2022-01-15T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/portfolio/kernel-compilation/</loc>
+    <loc>https://chahat-m.github.io/portfolio/kernel-compilation/</loc>
     <lastmod>2021-12-12T12:13:40+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/portfolio/financelib/</loc>
+    <loc>https://chahat-m.github.io/portfolio/financelib/</loc>
     <lastmod>2021-07-27T18:07:16+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://chahat-m.github.io/contact/</loc>
   </url>
 </urlset>

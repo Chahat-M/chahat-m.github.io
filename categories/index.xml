@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Chahat</title>
-    <link>http://example.org/categories/</link>
+    <link>https://chahat-m.github.io/categories/</link>
     <description>Recent content in Categories on Chahat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2023 12:49:27 +0600</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Apr 2023 12:49:27 +0600</lastBuildDate><atom:link href="https://chahat-m.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>http://example.org/categories/blog/</link>
+      <link>https://chahat-m.github.io/categories/blog/</link>
       <pubDate>Mon, 10 Apr 2023 12:49:27 +0600</pubDate>
       
-      <guid>http://example.org/categories/blog/</guid>
+      <guid>https://chahat-m.github.io/categories/blog/</guid>
       <description></description>
     </item>
     
