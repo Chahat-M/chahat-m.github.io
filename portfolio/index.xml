@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Chahat</title>
+    <link>http://example.org/portfolio/</link>
+    <description>Recent content in Portfolios on Chahat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Aug 2022 12:49:27 +0600</lastBuildDate><atom:link href="http://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kilo-ed-rust</title>
+      <link>http://example.org/portfolio/kilo-ed-rust/</link>
+      <pubDate>Wed, 31 Aug 2022 12:49:27 +0600</pubDate>
+      
+      <guid>http://example.org/portfolio/kilo-ed-rust/</guid>
+      <description>Throughout the process of building this project, I have acquired numerous technical skills, including: a strong command of the Rust programming language and its syntax, expertise in low-level systems programming concepts such as input/output handling, and concurrency, the ability to design and implement efficient user interfaces for text editing, a sound understanding of command-line interface (CLI) tools and experience in text processing and manipulation techniques, including searching, replacing, and syntax highlighting.</description>
+    </item>
+    
+    <item>
+      <title>Emotion Recognition using EEG Signals</title>
+      <link>http://example.org/portfolio/emotion-recognition/</link>
+      <pubDate>Sun, 17 Jul 2022 18:19:35 +0600</pubDate>
+      
+      <guid>http://example.org/portfolio/emotion-recognition/</guid>
+      <description>Developing a machine learning model for emotion recognition required several technical skills. These include data preprocessing, feature extraction, and machine learning algorithms. Data preprocessing involves cleaning, normalizing, and transforming raw data into a format suitable for analysis. Feature extraction involves selecting the most relevant features from the preprocessed data that was used to train the machine learning model. Machine learning algorithms, such as random forest, support vector machines, and kNN, are used to build the model.</description>
+    </item>
+    
+    <item>
+      <title>Linux Kernel Compilation</title>
+      <link>http://example.org/portfolio/kernel-compilation/</link>
+      <pubDate>Sun, 12 Dec 2021 12:13:40 +0000</pubDate>
+      
+      <guid>http://example.org/portfolio/kernel-compilation/</guid>
+      <description>Building and compiling a Linux kernel required technical skills such as knowledge of the kernel&amp;rsquo;s architecture, components, and configuration options. It also required understanding the hardware and drivers necessary to support the system. Troubleshooting skills were essential to identify and fix issues that arose during the build process. Additionally, proficiency in using the command-line interface was necessary to configure and compile the kernel. Familiarity with scripting languages such as Bash was also beneficial.</description>
+    </item>
+    
+    <item>
+      <title>FinanceLib</title>
+      <link>http://example.org/portfolio/financelib/</link>
+      <pubDate>Tue, 27 Jul 2021 18:07:16 +0600</pubDate>
+      
+      <guid>http://example.org/portfolio/financelib/</guid>
+      <description>Developing FinanceLib on GitHub required proficiency in Python programming and finance to create the library&amp;rsquo;s diverse range of financial functions. Additionally, software design and architecture skills were crucial in developing the library&amp;rsquo;s design and organization. Testing and debugging skills were necessary to ensure accurate results and free of errors. Lastly, continuous development and communication skills were important to maintain and improve the library, stay up-to-date with the latest technologies and practices, and understand the user&amp;rsquo;s needs and feedback.</description>
+    </item>
+    
+  </channel>
+</rss>

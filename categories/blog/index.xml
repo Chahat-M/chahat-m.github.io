@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Chahat</title>
+    <link>http://example.org/categories/blog/</link>
+    <description>Recent content in blog on Chahat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2023 12:49:27 +0600</lastBuildDate><atom:link href="http://example.org/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Questions Still Unanswered</title>
+      <link>http://example.org/blog/questions-still-unanswered/</link>
+      <pubDate>Mon, 10 Apr 2023 12:49:27 +0600</pubDate>
+      
+      <guid>http://example.org/blog/questions-still-unanswered/</guid>
+      <description>As I reflect on my college life, I can&amp;rsquo;t help but marvel at the countless questions that still linger in my mind. From the perplexing challenges to the enigmatic experiences, there are aspects of my college journey that remain shrouded in mystery. In this blog, I want to take you on a personal exploration of the questions that have yet to be answered, the unresolved puzzles that have shaped my growth, and the exciting possibilities that lie ahead.</description>
+    </item>
+    
+    <item>
+      <title>Time Mastery: Navigating Academics, Clubs, and Fun in College</title>
+      <link>http://example.org/blog/time-mastery/</link>
+      <pubDate>Wed, 01 Mar 2023 12:49:27 +0600</pubDate>
+      
+      <guid>http://example.org/blog/time-mastery/</guid>
+      <description>Time management is a skill that plays a crucial role in maximizing productivity and maintaining a healthy work-life balance. In this blog, I want to share my personal experiences and insights on how I effectively managed my time during my college years. From navigating through classes and self-study to engaging in clubs and enjoying the vibrant campus life, I discovered the art of juggling multiple responsibilities and making the most of every moment.</description>
+    </item>
+    
+    <item>
+      <title>Self Projects: A Personal Journey of Growth</title>
+      <link>http://example.org/blog/self-projects/</link>
+      <pubDate>Fri, 24 Feb 2023 13:06:26 +0600</pubDate>
+      
+      <guid>http://example.org/blog/self-projects/</guid>
+      <description>Self projects have been a game-changer in my programming journey, offering a unique avenue for learning, problem-solving, and unlocking exciting opportunities. In this blog, I want to share my personal views on the significance of self projects, highlighting how they have enriched my learning experience, opened doors to diverse fields, and set me apart from competitive programming platforms. Through my own experiences, I aim to convey the profound impact of self projects on my growth and passion for programming.</description>
+    </item>
+    
+    <item>
+      <title>Balancing Passion for Programming with Electronics Studies</title>
+      <link>http://example.org/blog/programming-with-electronics/</link>
+      <pubDate>Wed, 20 Jul 2022 12:49:27 +0600</pubDate>
+      
+      <guid>http://example.org/blog/programming-with-electronics/</guid>
+      <description>As a programming enthusiast pursuing electronics studies, I embarked on a unique academic journey where my passion for coding took center stage. While electronics formed the foundation of my studies, my true interest and dedication were directed towards programming. In this blog, I will share my personal experiences, emphasizing the significance of dedicating time to programming, seeking support from peers and seniors, and optimizing your learning experience in the field of electronics.</description>
+    </item>
+    
+    <item>
+      <title>The Importance of Mentorship</title>
+      <link>http://example.org/blog/mentorship/</link>
+      <pubDate>Sat, 15 Jan 2022 12:49:27 +0600</pubDate>
+      
+      <guid>http://example.org/blog/mentorship/</guid>
+      <description>When I first stepped foot into college, I felt a mix of excitement and uncertainty. Thankfully, I had the guidance and mentorship of two amazing seniors who had already graduated. In this blog, I want to share my personal experiences and how their mentorship profoundly impacted my life. From the challenges I faced to the valuable lessons I learned, I discovered the true value of having mentors and the importance of staying true to myself.</description>
+    </item>
+    
+  </channel>
+</rss>
